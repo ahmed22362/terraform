@@ -1,0 +1,7 @@
+# Ignore any file named 'creds' in any folder
+**/creds
+**/terraform.tfstate
+**/terraform.tfstate.backup
+*.tfvars
+.terraform/
+.terraform.lock.hcl
